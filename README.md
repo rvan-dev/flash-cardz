@@ -7,5 +7,5 @@
 |--------------|---------------------------------------------------------------------|---------------------------------------------------|
 | Create card  | Choose correct answer (randomized multiple choice in learning mode) | Darkmode                                          |
 | Edit card    | Add images to cards                                                 | Import learningcards made for apps like ankidroid |
-| Learningmode | Draw item for card (for languages like japanese,chinese,...)        |                                                   |
+| Learningmode | Draw item for card (for languages like japanese,chinese,...)        | responsive                                        |
 
