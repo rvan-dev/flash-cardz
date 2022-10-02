@@ -10,6 +10,6 @@
 | Learningmode | Draw item for card (for languages like japanese,chinese,...)        | Audio support                                     |
 | Multiple sides for a card (2,3,4)| Create preset for cards or set card structure when creating a card pack | |
 | Create a card pack| Image support | |
-| Delete card pack |||
+| Delete card pack | Multi language support||
 | Rename card pack |||
 
